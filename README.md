@@ -13,3 +13,5 @@ Vamos começar com o desenvolvimento de três tipos de materiais, cada um deles 
 3. **[Backlog](http://github.com/nosvc/backlog)**: Com base nos [flows](http://github.com/nosvc/flows, por fim, conseguiremos listar todas as funcionalidades novas da plataforma, para começarmos o desenvolvimento propriamente dito.
 
 **Então, fica aqui nosso convite: esse é um resumo do processo, e ele todo acontece aqui no GitHub não é à toa! É para que vocês participem mesmo.**
+
+Se ficou curiosa ou curioso para saber mais sobre como esse processo funciona, pode dar uma olhada nessa apresentação *[Storytelling - A Compelling Design Tool](http://www.slideshare.net/dorelvis/storytelling-a-compelling-design-tool)*.
