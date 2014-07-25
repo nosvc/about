@@ -14,4 +14,4 @@ Vamos começar com o desenvolvimento de três tipos de materiais, cada um deles 
 
 > Então, fica aqui nosso convite: esse é um resumo do processo, e ele todo acontece aqui no GitHub não é à toa! É para que vocês participem mesmo.
 
-Se ficou curiosa ou curioso para saber mais sobre como esse processo funciona, pode dar uma olhada nessa apresentação *[Storytelling - A Compelling Design Tool](http://www.slideshare.net/dorelvis/storytelling-a-compelling-design-tool)*.
+Se ficou curiosa ou curioso para saber mais sobre como esse processo funciona, pode dar uma olhada nessa apresentação *[Storytelling - A Compelling Design Tool](http://www.slideshare.net/dorelvis/storytelling-a-compelling-design-tool)*, e nesse artigo *Better User Experience With Storytelling* ([parte 1](http://www.smashingmagazine.com/2010/01/29/better-user-experience-using-storytelling-part-one/) e [parte 2](http://www.smashingmagazine.com/2010/02/11/better-user-experience-through-storytelling-part-2/)).
