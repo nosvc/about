@@ -10,6 +10,6 @@ Vamos começar com o desenvolvimento de três tipos de materiais, cada um deles 
 
 1. **[Personas](http://github.com/nosvc/personas)**: Aqui descrevemos personagens fictícios que usariam o Nós.vc, criando uma história e descrevendo como eles se relacionariam com a plataforma. Em outras palavras *é os espaço onde você pode incluir toda necessidade, vontade, sonho* que tem sobre o futuro do Nós.vc.
 2. **[Flows](http://github.com/nosvc/flows)**: Aqui vamos criar passo-a-passo cada interação que o novo Nós.vc deve oferecer. Tudo que as [personas](http://github.com/nosvc/personas) precisarem terá que aparecer em algum momento nesses flows.
-3. **[Backlog](http://github.com/nosvc/backlog)**: Com base nos [flows](http://github.com/nosvc/flows, por fim, conseguiremos listar todas as funcionalidades novas da plataforma, para começarmos o desenvolvimento propriamente dito.
+3. **[Backlog](http://github.com/nosvc/backlog)**: Com base nos [flows](http://github.com/nosvc/flows), por fim, conseguiremos listar todas as funcionalidades novas da plataforma, para começarmos o desenvolvimento propriamente dito.
 
 **Então, fica aqui nosso convite: esse é um resumo do processo, e ele todo acontece aqui no GitHub não é à toa! É para que vocês participem mesmo.**
